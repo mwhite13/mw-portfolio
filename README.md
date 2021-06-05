@@ -1,3 +1,3 @@
-# mw-portfolio
+# Portfolio
 Added dependecies:
 MaterialUI, gh-pages
